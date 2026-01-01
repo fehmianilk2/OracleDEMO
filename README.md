@@ -31,5 +31,5 @@ To run this oracle on your local machine:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/aesthesius-oracle.git](https://github.com/YOUR_USERNAME/aesthesius-oracle.git)
+git clone [https://github.com/fehmianilk2/OracleDEMO.git](https://github.com/fehmianilk2/OracleDEMO.git)
 cd aesthesius-oracle
